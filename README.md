@@ -303,6 +303,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### ⚙️ Development & Architecture
 
+#### anti-slop-design
+**Source:** [wwewtech/anti-slop-design](https://github.com/wwewtech/anti-slop-design)
+**Description:** Cures vibe-coded software from AI design slop with curated token archetypes, tactile micro-interactions, and 7-axis quality gating.
+**Use Case:** When building, styling, or refactoring UI code with Claude Code or AI coding agents.
+**Stars:** ⭐⭐⭐⭐
+
 #### mcp-builder
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Create high-quality Model Context Protocol servers for external integrations.
